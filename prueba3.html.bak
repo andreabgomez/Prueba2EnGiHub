@@ -4,9 +4,9 @@
 	<head>
 		<title>Ejemplo de página</title>
 	</head>
-
+<p> Esto es un párrafo uevo </p>
 	<body>
-		<p> Esto es un párrafo nuevo </p>
+		
 	</body>
 
 </html>
